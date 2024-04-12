@@ -5,7 +5,7 @@
     $ pip install requests rich httpx --user
     $ git clone https://github.com/develover-python/fbmeta
     $ cd fbmeta
-    $ python3 Instagram.py
+    $ python3 main.py
     
 ### Sosial Media
 [![](https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=pink&labelColor=white)](https://www.instagram.com/develover_2003)
