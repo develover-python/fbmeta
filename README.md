@@ -1,5 +1,5 @@
 ###  Cara Install Di Termux
-    $ pkg pkg update && upgrade
+    $ pkg update && upgrade
     $ pkg install python
     $ pkg install git
     $ pip install requests rich httpx --user
